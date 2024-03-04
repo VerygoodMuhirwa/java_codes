@@ -21,7 +21,7 @@ public class Custom  extends Exception{
             e.printStackTrace();
 
         }finally{
-          System.out.println("")
+          System.out.println("The try catch block has alr")
         }
     }
 }
