@@ -20,6 +20,6 @@ public class Custom  extends Exception{
         }catch (Minor e){
             e.printStackTrace();
 
-        }
+        }fina
     }
 }
