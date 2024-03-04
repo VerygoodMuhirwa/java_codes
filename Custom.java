@@ -21,7 +21,7 @@ public class Custom  extends Exception{
             e.printStackTrace();
 
         }finally{
-            sout
+            sou
         }
     }
 }
