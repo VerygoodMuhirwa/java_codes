@@ -22,7 +22,7 @@ def add_commit_edit(limit):
     subprocess.run(['git', 'commit', '--date', f'{past_date}', '-am', f'Past commit: {past_date}'])
 
 # Number of iterations
-iterations = 5000
+iterations = 10000
 
 # Loop to perform actions multiple times
 for _ in range(iterations):
